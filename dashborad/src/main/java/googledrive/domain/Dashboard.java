@@ -17,6 +17,6 @@ public class Dashboard {
     private Long fileSize;
     private String fileName;
     private Boolean isIndexed;
-    private Boolean isUploaded;
+    private Boolean isCreated;
     private String videoUrl;
 }

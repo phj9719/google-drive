@@ -29,7 +29,7 @@ public class DashboardViewHandler {
             dashboard.setId(fileUploaded.getId());
             dashboard.setFileSize(fileUploaded.getSize());
             dashboard.setFileName(fileUploaded.getName());
-            dashboard.setIsUploaded(true);
+            dashboard.setIsCreated(true);
             // view 레파지 토리에 save
             dashboardRepository.save(dashboard);
         } catch (Exception e) {

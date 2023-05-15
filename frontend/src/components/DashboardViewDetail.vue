@@ -16,7 +16,7 @@
                 <Boolean label="IsIndexed" v-model="item.isIndexed" :editMode="editMode" @change="change" />
             </div>
             <div>
-                <Boolean label="IsUploaded" v-model="item.isUploaded" :editMode="editMode" @change="change" />
+                <Boolean label="IsCreated" v-model="item.isCreated" :editMode="editMode" @change="change" />
             </div>
             <div>
                 <String label="VideoUrl" v-model="item.videoUrl" :editMode="editMode" @change="change" />

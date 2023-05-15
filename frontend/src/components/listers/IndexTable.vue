@@ -87,7 +87,7 @@
 
             this.newValue = {
                 'fileId': 0,
-                'keywords': '',
+                'keywords': [],
             }
         },
         methods: {

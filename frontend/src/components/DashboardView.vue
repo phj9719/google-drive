@@ -25,7 +25,7 @@
                 { text: "fileSize", value: "fileSize" },
                 { text: "fileName", value: "fileName" },
                 { text: "isIndexed", value: "isIndexed" },
-                { text: "isUploaded", value: "isUploaded" },
+                { text: "isCreated", value: "isCreated" },
                 { text: "videoUrl", value: "videoUrl" },
             ],
             dashboard : [],
